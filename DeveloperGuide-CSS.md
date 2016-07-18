@@ -25,19 +25,18 @@ Although currently incomplete, this is a community driven document. New ideas ar
 Organization
 --------------------------
 
-### Spacing
-This is so important on teams. You can't just 'change' your IDE configuration. It's deeper.
-```css
+### Whitespace
+Improves the readability of the codebase and mood of the developers when kept consistent.
+ 
+ * Either choose soft indents or real tabs for indentation
+ * Use four spaces per indentation level
+ * Never mix tabs and spaces
+ * Space before opening brace `{` of rule declarations
+ * Space after `:` in rule property 
+ * Closing brace `}` of declaration put on new line
+ * Empty line between rule declarations
+ * Multiple selectors in a declaration must be put on a new line
 
-.spaces{
-    value: 4;
-}
-
-.tabs {
-    value: soft;
-}
-
-```
 ### Property Declaration Order
 Yet another opinionated way for declaring the order of CSS properties.
 
