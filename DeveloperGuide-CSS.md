@@ -1,24 +1,29 @@
-Congruence, for CSS
+Congruence, for CSS [![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ===================
-A set of design principles, standards, and changelog for the evolution of CSS.
->
-> Without good design, whats the point?
->
+A collection of design principles and language patterns for writing cohesive, scalable CSS.
 
-This is a rough draft and much of it is still in progress and incomplete. New ideas are always welcome. Please contribute.
-
+### Table of Contents ###
 
 1. [Introduction](#introduction)
 2. [Organization](#organization)
     * [Property Declaration](#property-declaration-order)
+    
+Introduction
+------------
+>
+> Without good design, whats the point?
+>
 
-## Introduction
 This guide is meant to promote a consistent and successive philosophy around keeping code clean, intentional, and 
-maintainable. Each approach may have it's strengths and weaknesses; however, this doesn't focus on providing perfect 
-solutions, but rather, solutions that combine the best balance of value for time.
+maintainable. Each approach may have it's strengths and weaknesses; however, this document doesn't focus on 
+providing perfect solutions, but rather, solutions that combine the best balance of value for time.
 
-Property Declaration Order
+Although currently incomplete, this is a community driven document. New ideas are always welcome. Please contribute.
+
+Organization
 --------------------------
+
+### Property Declaration Order
 Yet another opinionated way for declaring the order of CSS properties.
 
  * [Content](#content)
@@ -32,7 +37,7 @@ Yet another opinionated way for declaring the order of CSS properties.
  * [Misc](#misc)
  * [Animation](#animation)
 
-### Content ###
+#### Content ####
 ```css
 
 .selector {
@@ -50,7 +55,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Positioning ###
+#### Positioning ####
 ```css
 
 .selector {
@@ -84,7 +89,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Setup ###
+#### Setup ####
 ```css
 
 .selector {
@@ -99,7 +104,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Table ###
+#### Table ####
 ```css
 
 .selector {
@@ -110,7 +115,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Box Model ###
+#### Box Model ####
 ```css
 
 .selector {
@@ -169,7 +174,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Background ###
+#### Background ####
 ```css
 
 .selector {
@@ -192,7 +197,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Typography ###
+#### Typography ####
 ```css
 
 .selector {
@@ -214,7 +219,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Type Layout ###
+#### Type Layout ####
 ```css
 
 .selector {
@@ -238,7 +243,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Misc ###
+#### Misc ####
 ```css
 
 .selector {
@@ -263,7 +268,7 @@ Yet another opinionated way for declaring the order of CSS properties.
 
 ````
 
-### Animation ###
+#### Animation ####
 ```css
 
 .selector {
