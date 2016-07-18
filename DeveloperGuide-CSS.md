@@ -1,4 +1,5 @@
-Congruence, for CSS [![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+Congruence, for CSS
 ===================
 A collection of design principles and language patterns for writing cohesive, scalable CSS.
 
