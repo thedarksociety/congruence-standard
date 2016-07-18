@@ -7,6 +7,7 @@ A collection of design principles and language patterns for writing cohesive, sc
 
 1. [Introduction](#introduction)
 2. [Organization](#organization)
+    * [Spacing](#spacing)
     * [Property Declaration](#property-declaration-order)
     
 Introduction
@@ -24,6 +25,19 @@ Although currently incomplete, this is a community driven document. New ideas ar
 Organization
 --------------------------
 
+### Spacing
+This is so important on teams. You can't just 'change' your IDE configuration. It's deeper.
+```css
+
+.spaces{
+    value: 4;
+}
+
+.tabs {
+    value: soft;
+}
+
+```
 ### Property Declaration Order
 Yet another opinionated way for declaring the order of CSS properties.
 
