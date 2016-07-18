@@ -11,17 +11,18 @@ another are mutually exclusive, their patterns couldn't be more different.
 Table of Contents
 -----------------
 For Developers
-1. Code of Conduct
-2. Workflow
-3. Files
-4. Documentation
-5. Tools
-6. Team
-7. Environments
-8. Git
-9. Pull Requests
-10. DevOps
-11. Patterns
+
+ 1. Code of Conduct
+ 2. Workflow
+ 3. Files
+ 4. Documentation
+ 5. Tools
+ 6. Team
+ 7. Environments
+ 8. Git
+ 9. Pull Requests
+ 10. DevOps
+ 11. Patterns
 
 [Acknowledgements](#Acknowledgements)
 
