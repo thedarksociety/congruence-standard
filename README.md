@@ -17,16 +17,14 @@ Rye Miller
 
  * [Website](http://ryemiller.com)
  * [Twitter](http://twitter.com/ryemiller)
- * [Bitbucket](http://bitbucket.com/adarkstar)
  * [Github](http://github.com/iods)
 
 License
 -------
-[GNU General Public License v3.0](http://www.gnu.org/licenses/#GPL)
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [GNU General Public License v3.0](http://www.gnu.org/licenses/#GPL)
 
 Copyright
 ---------
-(c) 2016 Rye Miller
-
+(c) 2020 Rye Miller
 
 
