@@ -19,7 +19,7 @@ For Developers
  5. Tools
  6. Team
  7. Environments
- 8. Git
+ 8. [Git](DeveloperGuide-Git.md)
  9. Pull Requests
  10. DevOps
  11. Patterns
