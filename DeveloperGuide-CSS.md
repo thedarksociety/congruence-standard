@@ -1,11 +1,9 @@
-[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 Congruence, for CSS
 ===================
 A collection of design principles and language patterns for writing cohesive, scalable CSS.
 
-### Table of Contents ###
-
+Table of Contents
+-----------------
 1. [Introduction](#introduction)
 2. [Organization](#organization)
     * [Spacing](#spacing)
@@ -24,7 +22,7 @@ providing perfect solutions, but rather, solutions that combine the best balance
 Although currently incomplete, this is a community driven document. New ideas are always welcome. Please contribute.
 
 Organization
---------------------------
+------------
 
 ### Whitespace
 Improves the readability of the codebase and mood of the developers when kept consistent.
@@ -318,3 +316,15 @@ Yet another opinionated way for declaring the order of CSS properties.
 }
 
 ````
+
+Acknowledgements
+----------------
+@TODO.
+
+License
+-------
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [GNU General Public License v3.0](http://www.gnu.org/licenses/#GPL)
+
+Copyright
+---------
+(c) 2020 Rye Miller

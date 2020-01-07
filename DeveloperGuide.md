@@ -20,7 +20,7 @@ For Developers
  6. Team
  7. Environments
  8. [Git](DeveloperGuide-Git.md)
- 9. Pull Requests
+ 9. Pull/Merge Requests
  10. DevOps
  11. Patterns
 
@@ -34,9 +34,8 @@ Acknowledgements
 
 License
 -------
-[GNU General Public License v3.0](http://www.gnu.org/licenses/#GPL)
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [GNU General Public License v3.0](http://www.gnu.org/licenses/#GPL)
 
 Copyright
 ---------
-(c) 2016 Rye Miller
-
+(c) 2020 Rye Miller
