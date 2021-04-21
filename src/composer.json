@@ -1,0 +1,31 @@
+{
+  "name": "smile/magento2-coding-standards",
+  "type": "library",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Aurélien FOUCRET",
+      "email": "aurelien.foucret@smile.fr"
+    },
+    {
+      "name": "Romain Ruaud",
+      "email": "romain.ruaud@smile.fr"
+    }
+  ],
+  "description": "Smile Coding Standards for Magento2 community projects",
+  "homepage": "https://github.com/Smile-SA/magento2-coding-standards",
+  "keywords": [
+    "php",
+    "phpcs",
+    "phpmd",
+    "coding standards"
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "*",
+    "phpmd/phpmd": "*",
+    "pdepend/pdepend": "*",
+    "sjparkinson/static-review": "*",
+    "friendsofphp/php-cs-fixer": "*",
+    "squizlabs/php_codesniffer": "*"
+  }
+}
