@@ -2,7 +2,7 @@
 #           .gitignore Template - Copyright (c) 2016  Rye Miller             #
 # -------------------------------------------------------------------------- #
 
-CHANGELOG.md
+!CHANGELOG.md
 CONTRIBUTING.md
 .gitattributes
 !.gitignore

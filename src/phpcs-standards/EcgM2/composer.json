@@ -1,0 +1,18 @@
+{
+  "name": "aoepeople/magento-coding-standard",
+  "description": "A set of PHP_CodeSniffer rules and sniffs.",
+  "homepage": "https://github.com/AOEpeople/magento-coding-standard",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AOE GmbH",
+      "homepage": "http://www.aoe.com",
+      "email" : "team-magento@aoe.com"
+    }
+  ],
+  "target-dir": "Ecg",
+  "require": {
+    "php": ">=5.4.0",
+    "squizlabs/php_codesniffer": "2.1.0"
+  }
+}
